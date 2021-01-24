@@ -10,4 +10,7 @@ Expected Deliverables:
 2. Evaluation metrics.
 3. Provide links to reference papers/tutorials.
 
-Resources:
+Useful Resources for Volunteers:
+1. Wildfire-Detection Method Using DenseNet and CycleGAN Data Augmentation-Based Remote Camera Imagery
+https://www.mdpi.com/2072-4292/12/22/3715?type=check_update&version=1
+
